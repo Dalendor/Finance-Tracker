@@ -11,7 +11,7 @@ public class AlertThreshold {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private int percentage;           // bv. 50, 75, 90
+    private int percentage;
     private String message = "Waarschuwing: %d%% van je budget bereikt";
 
     @ManyToOne
