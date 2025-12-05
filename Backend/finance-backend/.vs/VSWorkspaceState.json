@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\projecten",
+    "\\src\\main\\java\\com\\projecten\\finance",
+    "\\src\\main\\java\\com\\projecten\\finance\\controller"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\projecten\\finance\\controller\\CategoryController.java",
+  "PreviewInSolutionExplorer": false
+}
